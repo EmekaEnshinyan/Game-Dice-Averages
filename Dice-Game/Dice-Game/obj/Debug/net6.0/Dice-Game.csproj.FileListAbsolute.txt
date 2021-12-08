@@ -1,0 +1,15 @@
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\bin\Debug\net6.0\Dice-Game.exe
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\bin\Debug\net6.0\Dice-Game.deps.json
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\bin\Debug\net6.0\Dice-Game.runtimeconfig.json
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\bin\Debug\net6.0\Dice-Game.dll
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\bin\Debug\net6.0\ref\Dice-Game.dll
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\bin\Debug\net6.0\Dice-Game.pdb
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\Dice-Game.csproj.AssemblyReference.cache
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\Dice-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\Dice-Game.AssemblyInfoInputs.cache
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\Dice-Game.AssemblyInfo.cs
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\Dice-Game.csproj.CoreCompileInputs.cache
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\Dice-Game.dll
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\ref\Dice-Game.dll
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\Dice-Game.pdb
+C:\Users\gnier\Documents\Dice-Game\Dice-Game\obj\Debug\net6.0\Dice-Game.genruntimeconfig.cache
