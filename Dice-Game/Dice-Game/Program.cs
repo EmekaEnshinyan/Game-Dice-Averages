@@ -7,7 +7,7 @@ double playerTotal = 0.0;
 double enemyTotal = 0.0;
 
 Random random = new Random();
-Console.WriteLine("              You are now playing the game \"Dice Averages\"!!");
+Console.WriteLine("\n              You are now playing the game \"Dice Averages\"!!");
 System.Threading.Thread.Sleep(3000);
 Console.WriteLine("\nThe rules are simple:\n\nYou will role the dice 8 times. Your score will be the average of all the numbers you rolled.");
 System.Threading.Thread.Sleep(5000);
